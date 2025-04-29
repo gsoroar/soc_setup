@@ -9,14 +9,14 @@ NC='\033[0m' # No Color
 # Function to display welcome message
 welcome_message() {
   echo -e "${YELLOW}#############################################${NC}"
-  echo -e "${YELLOW}##  Welcome to the SIEM Setup Script!      ##${NC}"
+  echo -e "${YELLOW}##  Welcome to the SOC Environment Setup!  ##${NC}"
   echo -e "${YELLOW}##  This script will guide you through the ##${NC}"
   echo -e "${YELLOW}##  installation and configuration of     ##${NC}"
   echo -e "${YELLOW}##  Elasticsearch, Kibana, and Filebeat.   ##${NC}"
   echo -e "${YELLOW}##  Please follow the prompts to provide  ##${NC}"
   echo -e "${YELLOW}##  the necessary information.             ##${NC}"
   echo -e "${YELLOW}#############################################${NC}"
-  echo -e "Script Author: Samiul Islam"
+  echo -e "Script Author: Engr. M. Golam Soroar"
   echo -e "Script Created on: $(date '+%Y-%m-%d %H:%M:%S')"
 }
 

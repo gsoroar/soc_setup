@@ -5,9 +5,9 @@
 
 <img width="100%" alt="SOC Banner" src="https://github.com/gsoroar/soc_setup/blob/main/assets/soc_banner.jpeg?raw=true">
 
-Building a secure monitoring environment from scratch can be time-consuming and complex. This script simplifies the process by automatically setting up an integrated Security Operations Center (SOC) environment — including SIEM, NIDS, and HIDS — on a single server. Designed for ease of use, it helps both beginners and advanced users deploy a functional SOC in minimal time.
+Building a secure monitoring environment from scratch can be time-consuming and complex. This script simplifies the process by automatically setting up an integrated Security Operations Center (SOC) environment including SIEM, NIDS, and HIDS on a single server. Designed for ease of use, it helps both beginners and advanced users deploy a functional SOC in minimal time.
 
-**Important:** All services — SIEM, NIDS, and HIDS — will run together on the same machine.
+**Important:** All services SIEM, NIDS, and HIDS — will run together on the same machine.
 
 ## What's Included
 
