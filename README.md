@@ -3,7 +3,7 @@
 ## Overview
 
 
-<img width="615" alt="main_pic" src="https://github.com/gsoroar/soc_setup/blob/main/soc_banner.jpeg?raw=true">
+<img width="100%" alt="SOC Banner" src="https://github.com/gsoroar/soc_setup/blob/main/assets/soc_banner.jpeg?raw=true">
 
 This script automates the setup of a comprehensive security monitoring environment, including a Security Information and Event Management (SIEM) system,Network-based Intrusion Detection System (NIDS) and Host-based Intrusion Detection System (HIDS) on a single machine. It streamlines the installation process, making it accessible to users with different levels of technical expertise.
 
