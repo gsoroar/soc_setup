@@ -21,28 +21,28 @@ The script installs and configures the following components:
 
 These versions are selected specifically for seamless integration with Wazuh Manager 4.5.
 
-   <img width="443" alt="siem_setup_1" src="https://github.com/samiul008ghub/soc_setup/assets/54459574/94403da5-27bf-4afd-b95a-26eb548b5734">
+   <img width="100%" alt="SIEM Setup" src="https://github.com/gsoroar/soc_setup/blob/main/assets/siem_setup.jpeg?raw=true">
 
    
 
-   <img width="918" alt="elasticsearch" src="https://github.com/samiul008ghub/soc_setup/assets/54459574/31be9f30-ebed-49ae-8eed-807c70945eb0">
+   <img width="100%" alt="Elastic Search" src="https://github.com/gsoroar/soc_setup/blob/main/assets/elastic.jpeg?raw=true">
 
 
 2. **NIDS (Network-based Intrusion Detection System):** Deploys Suricata, a robust intrusion detection engine, to monitor network traffic for malicious behavior.
 **Important:** Suricata inspects traffic on the server's local network interface. To capture broader network traffic, connect the system to a TAP device or configure a SPAN port.
 
-<img width="439" alt="Suricata_setup" src="https://github.com/samiul008ghub/soc_setup/assets/54459574/4e1f2e75-3ccc-4976-b976-178a068c92c5">
+<img width="100%" alt="Suricata Setup" src="https://github.com/gsoroar/soc_setup/blob/main/assets/surikata.jpeg?raw=true">
 
-<img width="957" alt="suricata_dashboard" src="https://github.com/samiul008ghub/soc_setup/assets/54459574/7e5388da-a104-4807-a008-67bd0d289ee7">
+<img width="957" alt="suricata_dashboard" src="https://github.com/gsoroar/soc_setup/blob/main/assets/surikata_alert.jpeg?raw=true">
 
 3. **HIDS (Host-based Intrusion Detection System):** Installs Wazuh Manager (v4.5) to monitor activities and detect anomalies at the host level, providing an additional layer of security.
 
    
-<img width="399" alt="wazuh_setup" src="https://github.com/samiul008ghub/soc_setup/assets/54459574/37c42fe1-665b-41c5-9d1b-7209472e9c08">
+<img width="399" alt="wazuh_setup" src="https://github.com/gsoroar/soc_setup/blob/main/assets/wazuh_setup.jpeg?raw=true">
 
 
 
-<img width="929" alt="wazuh" src="https://github.com/samiul008ghub/soc_setup/assets/54459574/5e6535fc-e082-43d4-861b-cc70cee0302e">
+<img width="929" alt="wazuh" src="https://github.com/gsoroar/soc_setup/blob/main/assets/wazuh_dash.jpeg?raw=true">
 
 ## Minimum System Requirements
 
